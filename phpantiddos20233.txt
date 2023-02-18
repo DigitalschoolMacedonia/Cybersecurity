@@ -1,0 +1,13 @@
+<?php>
+# MYSQL
+$host = '';
+$database = '';
+$user = '';
+$password = '';
+$link =mysqli_connect($host,$user,$password,$database);
+#Ky program eshte ber per te ruajtur caket e sulmeve kibernetike.
+$limit =60;
+
+#Perfundon Ky program i punuar nga Albin Lika DigitalSchool.
+$seconds=60;
+?>
